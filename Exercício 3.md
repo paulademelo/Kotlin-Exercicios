@@ -19,7 +19,7 @@ fun main(){
 
     // Imprimindo a ficha com cor
 
-    println("${MAGENTA}---------- FICHA FUNCIONAL ----------")
+    println("${MAGENTA}----------- FICHA FUNCIONAL -----------")
     println("$nome")
     println("$ano")
     println("R$ ${salario.format(2)}")
